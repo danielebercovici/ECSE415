@@ -1,2 +1,2 @@
-# ECSE415: Artificial Intelligence W18
-Tablut Game AI
+# ECSE415: Computer Vision
+Dog And Cat Classifier
